@@ -1,5 +1,8 @@
 # Projeto  Laravel 10 + Docker com Nginx + Mysql + Radis) + Jetstream + com livewire
 
+##Demostração
+Link para acesso a demonstração do projeto
+https://laravel.sqa.rio.br/
 
 ## Passo a passo para rodar o projeto
 Clone o projeto
@@ -41,13 +44,13 @@ REDIS_PORT=6379
 
 Suba os containers do projeto
 ```sh
-docker-compose up -d
+docker compose up -d
 ```
 
 
 Acesse o container
 ```sh
-docker-compose exec app bash
+docker compose exec app bash
 ```
 
 
