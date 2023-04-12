@@ -1,6 +1,6 @@
 # Projeto  Laravel 10 + Docker com Nginx + Mysql + Radis) + Jetstream + com livewire
 
-##Demostração
+## Demostração
 Link para acesso a demonstração do projeto
 https://laravel.sqa.rio.br/
 
